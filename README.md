@@ -3,6 +3,7 @@
 ## fd
 
 Each process has its own FDs
+
 Which FDs every process has?
 
 ```bash
